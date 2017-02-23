@@ -1,0 +1,4 @@
+c:\users\00140163\documents\visual studio 2010\Projects\PruebaFebrero2017\PruebaFebrero2017\bin\Debug\PruebaFebrero2017.exe
+c:\users\00140163\documents\visual studio 2010\Projects\PruebaFebrero2017\PruebaFebrero2017\bin\Debug\PruebaFebrero2017.pdb
+c:\users\00140163\documents\visual studio 2010\Projects\PruebaFebrero2017\PruebaFebrero2017\obj\x86\Debug\PruebaFebrero2017.exe
+c:\users\00140163\documents\visual studio 2010\Projects\PruebaFebrero2017\PruebaFebrero2017\obj\x86\Debug\PruebaFebrero2017.pdb
